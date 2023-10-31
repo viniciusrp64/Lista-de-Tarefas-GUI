@@ -37,14 +37,7 @@ Você pode executar o aplicativo seguindo estas etapas:
 2. Compile as classes `ListaDeTarefas` e `Tarefa`.
 3. Execute a classe `ListaDeTarefas` para iniciar o aplicativo.
 
-## Melhorias Futuras
-
-Este aplicativo de Lista de Tarefas pode ser melhorado adicionando recursos adicionais, como a capacidade de editar tarefas existentes ou definir datas de vencimento para as tarefas.
-
-Sinta-se à vontade para contribuir com melhorias ou personalizar o aplicativo de acordo com suas necessidades.
-
 ---
 
 Este projeto foi criado como parte de um aprendizado em programação Java.
 
-Autor: Seu Nome
